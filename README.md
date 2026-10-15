@@ -79,8 +79,9 @@ Usei bordas nas tabelas e uma legenda fixa no topo explicando “azul = editáve
 
 ## Prints
 
-![alt text](<Captura de tela 2026-10-15 154227.png>)
-![alt text](<Captura de tela 2026-10-15 154249.png>)
+<img width="723" height="486" alt="Captura de tela 2026-10-15 154249" src="https://github.com/user-attachments/assets/0f0c769a-280f-4354-beae-c1dc45550d8c" />
+<img width="723" height="477" alt="Captura de tela 2026-10-15 154227" src="https://github.com/user-attachments/assets/7ef64274-1452-4c49-9057-28b832809e56" />
+
 ---
 
 **Aviso:** salário, aporte e taxas usados são valores de exemplo para fins de estudo, não recomendação de investimento nem dados reais.
